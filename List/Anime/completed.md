@@ -2,7 +2,7 @@
 
 |                      id                      |    Type    | Season | Score |                                                   Title                                                   |   Completed  | Start Date | Finish Date |
 | :------------------------------------------: | :--------: | :----: | :---: | :-------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :---------: |
-| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  2 weeks ago | 01/17/2026 |  04/05/2026 |
+| [59978](https://myanimelist.net/anime/59978) |     tv     |  2026  |   9   |                                        Sousou no Frieren 2nd Season                                       |  3 weeks ago | 01/17/2026 |  04/05/2026 |
 | [62896](https://myanimelist.net/anime/62896) |     ona    |  2026  |   7   |                                             Chou Kaguya-hime!                                             | 3 months ago | 01/23/2026 |  01/23/2026 |
 | [59177](https://myanimelist.net/anime/59177) |     tv     |  2025  |   -   |                                          Kaijuu 8-gou 2nd Season                                          | 4 months ago | 12/06/2025 |  12/27/2025 |
 | [60098](https://myanimelist.net/anime/60098) |     tv     |  2025  |   8   |                                    Boku no Hero Academia: Final Season                                    | 4 months ago | 12/02/2025 |  12/18/2025 |
@@ -258,7 +258,7 @@
 | [44203](https://myanimelist.net/anime/44203) |     tv     |  2021  |   6   |                                              Seirei Gensouki                                              |  4 years ago | 07/06/2021 |  09/24/2021 |
 | [43523](https://myanimelist.net/anime/43523) |     tv     |  2021  |   8   |                                     Tsuki ga Michibiku Isekai Douchuu                                     |  4 years ago | 07/07/2021 |  09/23/2021 |
 | [41487](https://myanimelist.net/anime/41487) |     tv     |  2021  |   8   |                              Tensei shitara Slime Datta Ken 2nd Season Part 2                             |  4 years ago | 07/07/2021 |  09/21/2021 |
-| [34451](https://myanimelist.net/anime/34451) |     tv     |  2017  |   7   |                                           Kekkai Sensen & Beyond                                          |  4 years ago | 09/20/2021 |  09/20/2021 |
+| [34451](https://myanimelist.net/anime/34451) |     tv     |  2017  |   7   |                                           Kekkai Sensen & Beyond                                          |  5 years ago | 09/20/2021 |  09/20/2021 |
 | [42249](https://myanimelist.net/anime/42249) |     tv     |  2021  |   9   |                                              Tokyo Revengers                                              |  4 years ago | 05/31/2021 |  09/19/2021 |
 | [24439](https://myanimelist.net/anime/24439) |     tv     |  2015  |   8   |                                               Kekkai Sensen                                               |  5 years ago | 09/18/2021 |  09/18/2021 |
 | [30915](https://myanimelist.net/anime/30915) |   special  |  2015  |   5   |                             Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi                             |  5 years ago | 09/18/2021 |  09/18/2021 |
